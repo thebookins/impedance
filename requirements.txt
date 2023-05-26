@@ -1,0 +1,5 @@
+jupyterlab
+mat4py
+matplotlib
+pandas
+scipy
